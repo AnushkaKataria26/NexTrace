@@ -1,0 +1,6 @@
+__pycache__
+*.db
+*.o
+build/
+.venv/
+*.log
